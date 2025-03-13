@@ -11,5 +11,7 @@ class ArraysEx17{
 			
 		}
 		System.out.println(c);
+		System.out.println(c);
+
 	}
 }
